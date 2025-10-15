@@ -1,9 +1,8 @@
 # Wordpress
 README.md
 markdown
-# 🌐 Site WordPress - [Nom de votre site]
+# 🌐 Site WordPress 
 
-Une installation WordPress complète et configurée pour [décrire l'objectif de votre site].
 
 ## 📋 Caractéristiques
 
